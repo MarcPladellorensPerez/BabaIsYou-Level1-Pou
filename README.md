@@ -6,7 +6,7 @@ Codes:
 
 
 
-v1.0alpha: F8JW-QADM
+v1.0 alpha: F8JW-QADM
 
 v2.0 beta: WRZP-NEBA
 
